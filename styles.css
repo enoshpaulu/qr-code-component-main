@@ -19,8 +19,7 @@ body{
     font-size: 15px;
     display: grid;
     place-items: center;
-    min-height: 140vh;
-    max-height: 1000vh;
+    padding-top: 140px;
 }
 
 img{
